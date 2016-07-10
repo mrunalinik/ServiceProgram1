@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">B19_Service</string>
+    <string name="startServiceString">Start Service</string>
+    <string name="stopServiceString">Stop Service</string>
+
+    <string name="downloadString">Download</string>
+</resources>
